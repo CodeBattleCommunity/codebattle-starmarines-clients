@@ -10,6 +10,11 @@ CodeBattle.netcore/CodeBattleNet/obj
 CodeBattle.netcore/CodeBattleNetLibrary/bin
 CodeBattle.netcore/CodeBattleNetLibrary/obj
 CodeBattle.netcore/packages
+CodeBattle.netcore-vs/.vs
+CodeBattle.netcore-vs/CodeBattleNetCore/bin
+CodeBattle.netcore-vs/CodeBattleNetCore/obj
+CodeBattle.netcore-vs/CodeBattleNetCoreLibrary/bin
+CodeBattle.netcore-vs/CodeBattleNetCoreLibrary/obj
 CodeBattle.cpp/.vs
 CodeBattle.cpp/CodeBattleCpp/x64
 CodeBattle.cpp/CodeBattleCpp/Debug
